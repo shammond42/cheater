@@ -1,0 +1,17 @@
+[  
+{  
+    "id": "tools",  
+    "children":  
+    [  
+        {"id": "cheat-sheets", 
+         "caption": "Cheat Sheets",
+         "children":
+          [
+            {"id": "regular-expressions"},
+            {"caption": "Regular Expressions"},
+            { "command": "reg_ex_cheat_sheet" }
+          ]
+        } 
+    ]  
+}  
+]  
