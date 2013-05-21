@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>cheatsheet</string>
+	</array>
+	<key>name</key>
+	<string>Cheat Sheet</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\A\w+$</string>
+			<key>name</key>
+			<string>markup.heading.2</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\A\S+\s</string>
+			<key>name</key>
+			<string>entity.name.function</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.cheat-sheet</string>
+</dict>
+</plist>
