@@ -6,7 +6,7 @@ Cheater is a plugin for quickly accessing cheat sheets in the Sublime Text 2 edi
 
 At the moment there is only one available sheet.
 
-* Regular Expressions (cmd/ctrl + shift + c + r + x)
+* Regular Expressions (cmd/ctrl + shift + c) (once) + r + x
 
 ## Note on Patches/Pull Requests
 
