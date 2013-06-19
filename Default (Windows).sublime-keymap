@@ -1,5 +1,4 @@
 [
-  {   
-    "keys": ["ctrl+shift+c", "r", "x"], "command": "reg_ex_cheat_sheet"   
-  }
-]  
+  { "keys": ["ctrl+shift+c", "r", "x"], "command": "cheat_sheet", "args": {"cheatsheet": "Regular Expressions"} },
+  { "keys": ["ctrl+shift+c", "r", "y"], "command": "cheat_sheet_tester", "args": {"cheatsheet": "Regular Expressions"} }
+]
