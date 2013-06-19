@@ -12,15 +12,21 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\A\w+$</string>
+			<string>^.*  </string>
+			<key>name</key>
+			<string>entity.name.function</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\t.*</string>
 			<key>name</key>
 			<string>markup.heading.2</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\A\S+\s</string>
+			<string>^.*</string>
 			<key>name</key>
-			<string>entity.name.function</string>
+			<string>variable.parameter</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
