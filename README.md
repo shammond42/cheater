@@ -59,4 +59,4 @@ New sheets, and improvements to the existing ones are more than welcome.
 
 ## License
 
-Minitest-reporters is licensed under the MIT License. See LICENSE for details.
+Cheater is licensed under the MIT License. See LICENSE for details.
